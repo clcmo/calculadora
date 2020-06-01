@@ -1,11 +1,11 @@
-#Calculadora Simples
+# Calculadora Simples
 
 * Versão 1.1.0
 * Linguagens: Java e Kotlin
 * Desenvolvido por @clcmoliveira
 
 ---
-##Instalação
+## Instalação
 * Tenha o IntelliJ intalado em seu computador
 * Clone este projeto em sua pasta preferida
 * Abra o programa e, em seguida, abra o projeto
