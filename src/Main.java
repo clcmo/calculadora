@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        CalJava frame = new CalJava();
+        Calculadora frame = new Calculadora();
         frame.pack();
         frame.setVisible(true);
     }
