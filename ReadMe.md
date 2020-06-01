@@ -14,6 +14,8 @@
 ---
 ### Importante
 <br/>
-O projeto foi desenvolvido baseado nos seguintes tutoriais:
-* [sistesis](http://sintesis.ugto.mx/WintemplaWeb/02Wintempla/01Introduction/11Java/index.htm)
+O projeto foi desenvolvido baseado nos seguintes tutoriais: 
+
+
+* [sintesis](http://sintesis.ugto.mx/WintemplaWeb/02Wintempla/01Introduction/11Java/index.htm) e 
 * [DevMedia](https://www.devmedia.com.br/calculadora-java-criacao-de-aplicacoes-em-java-utilizando-swing/26007)
