@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/clcmo/Calculadora?style=for-the-badge)](https://github.com/clcmo/Calculadora/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/clcmo/Calculadora?style=for-the-badge)](https://github.com/clcmo/Calculadora/network)
 [![GitHub issues](https://img.shields.io/github/issues/clcmo/Calculadora?style=for-the-badge)](https://github.com/clcmo/Calculadora/issues)
-[![GitHub release version](https://img.shields.io/github/releases/clcmo/Calculadora?style=for-the-badge)](https://github.com/clcmo/Calculadora/releases)
+[![GitHub release version](https://img.shields.io/github/release/clcmo/Calculadora?style=for-the-badge)](https://github.com/clcmo/Calculadora/releases)
 
 ## Instalação
 
