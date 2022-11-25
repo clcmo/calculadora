@@ -1,4 +1,4 @@
-# Calc Made in Kotlin and Java
+# Calculator Made in Kotlin and Java
 
 [![GitHub license](https://img.shields.io/github/license/clcmo/calculadora?style=for-the-badge)](https://github.com/clcmo/calculadora)
 [![GitHub stars](https://img.shields.io/github/stars/clcmo/calculadora?style=for-the-badge)](https://github.com/clcmo/calculadora/stargazers)
